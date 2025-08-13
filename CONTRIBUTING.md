@@ -1,4 +1,4 @@
-# Contributing Guidelines
+[# Contributing Guidelines
 
 Thank you for your interest in contributing!
 
@@ -15,3 +15,4 @@ Thank you for your interest in contributing!
 
 ## Reporting Issues
 Use the GitHub Issues tab to report bugs or suggest features.
+](https://github.com/RawanElwakeel/jbbmo-Introduction-to-Git-and-GitHub/branches)
